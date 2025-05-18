@@ -1,0 +1,111 @@
+.doctor-schedule-container {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 100%;
+  .all-schedule {
+    select {
+      border-bottom: 1px solid #ccc;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      outline: none;
+      cursor: pointer;
+      padding: 5px 0;
+      font-size: 16px;
+      font-weight: 600;
+      color: #333;
+      background-color: #eef5ff;
+      option {
+        cursor: pointer;
+        padding: 5px 0;
+        font-size: 16px;
+      }
+    }
+  }
+  .text-calendar {
+    margin: 10px 0;
+    color: 333;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    span {
+      font-size: 15px;
+      font-weight: 600;
+      color: #333;
+      font-style: bold;
+      text-transform: uppercase;
+    }
+  }
+  .time-content {
+    display: flex;
+    flex-direction: column;
+
+    .time-content-btns {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      .no-schedule {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-style: italic;
+        font-size: 14px;
+        span {
+          font-size: 18px;
+          font-weight: 700;
+          color: #333;
+        }
+        i {
+          font-size: 22px;
+          color: #e53e3e;
+        }
+      }
+      button {
+        padding: 12px 18px;
+        margin-bottom: 15px;
+        border: none;
+        outline: none;
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 14px;
+        color: #1f2937;
+        background-color: #facc15;
+
+        &:hover {
+          background-color: #fcd34d;
+          color: #1f2937;
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        &.active {
+          background-color: #1d4ed8;
+          color: #1f2937;
+        }
+        .btn-vie {
+          min-width: 130px;
+          max-width: fit-content;
+        }
+        .btn-en {
+          min-width: 170px;
+          max-width: fit-content;
+        }
+      }
+    }
+
+    .book-free {
+      font-size: 12px;
+      color: #1f2937;
+      font-style: italic;
+      margin-top: 10px;
+
+      .fa-check {
+        font-size: 14px;
+        color: green;
+        margin-left: 5px;
+      }
+    }
+  }
+}
