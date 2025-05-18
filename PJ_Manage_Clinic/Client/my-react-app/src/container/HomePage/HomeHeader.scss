@@ -1,0 +1,235 @@
+.home-header-container {
+  height: 60px;
+  width: 100%;
+  padding: 0 40px;
+  position: sticky;
+  top: 0;
+  background-color: #dde7fc;
+  z-index: 10000;
+  border-bottom: 1px solid lightgrey;
+
+  .home-header-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+    .left-content {
+      width: 20%;
+      display: flex;
+      align-items: center;
+
+      .header-logo {
+        height: 150%;
+        width: 150%;
+        cursor: pointer;
+        transform: scale(0.6, 0.6);
+        margin-left: -45px;
+
+        &:hover {
+          transform: scale(0.65, 0.65);
+          transition: all 0.4s ease-in-out;
+        }
+      }
+
+      i {
+        font-size: 25px;
+        color: grey;
+        cursor: pointer;
+      }
+    }
+
+    .center-content {
+      width: 55%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .child-content {
+        margin: auto;
+
+        .subs-title {
+          font-weight: 400;
+          font-size: 12px;
+        }
+      }
+    }
+
+    .right-content {
+      width: 25%;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+
+      .support {
+        padding-right: 50px;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+
+        i {
+          font-size: 15px;
+          margin-right: 5px;
+          color: grey;
+
+          &:hover {
+            color: #49bce2;
+            transition: all 0.3s ease-in-out;
+          }
+        }
+      }
+
+      .languages {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 40px;
+        padding: 0 10px;
+
+        .language-vi {
+          cursor: pointer;
+          opacity: 0.2;
+
+          &.active {
+            opacity: 1;
+            color: orange;
+          }
+
+          &:hover {
+            opacity: 0.8;
+          }
+        }
+
+        .language-en {
+          margin: 0 10px;
+          cursor: pointer;
+          opacity: 0.2;
+
+          &.active {
+            opacity: 1;
+            color: blue;
+          }
+
+          &:hover {
+            opacity: 0.8;
+          }
+        }
+      }
+    }
+  }
+}
+
+.home-header-banner {
+  background-image: url(../../assets/images/banner.jpg);
+  height: 485px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+
+  .content-up {
+    background-image: linear-gradient(
+      rgba(126, 126, 126, 0.25),
+      rgba(225, 225, 225, 0.1)
+    );
+    padding-top: 15px;
+    height: 65%;
+
+    .title1 {
+      font-size: 30px;
+      color: #fff;
+      text-align: center;
+      text-shadow: 1px 1px 1px #333;
+      margin-bottom: 5px;
+      margin-top: 30px;
+    }
+
+    .title2 {
+      font-size: 30px;
+      color: white;
+      text-align: center;
+      text-shadow: 1px 1px 1px #333;
+      margin-bottom: 15px;
+    }
+
+    .search {
+      width: fit-content;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      padding: 10px;
+      border-radius: 25px;
+      background: #2148c0;
+
+      i {
+        margin: 0 5px;
+        color: #fff;
+      }
+
+      input {
+        height: 30px;
+        width: 360px;
+        background-color: transparent;
+        border: none;
+        outline: none;
+        color: #fff;
+        &::placeholder{
+          color: #fff;
+        }
+      }
+    }
+  }
+
+  .content-down {
+    height: 35%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 10px;
+    background-image: linear-gradient(
+      rgba(255, 255, 255, 0.1),
+      rgba(225, 225, 225, 0.9)
+    );
+
+    .options {
+      text-align: center;
+      display: flex;
+      gap: 50px;
+      justify-content: center;
+
+      .options-child {
+        width: 125px;
+
+
+        .icon-child {
+          background: white;
+          width: 40px;
+          height: 40px;
+          padding: 10px;
+          border-radius: 50%;
+          text-align: center;
+          margin: 0 auto;
+
+          i {
+            color: #49bce2;
+            font-size: 20px;
+            &:hover {
+              color: #333;
+            }
+          }
+        }
+
+        .text-child {
+          font-size: 17px;
+          font-weight: 500;
+          color: #2148c0;
+          cursor: pointer;
+          &:hover {
+            color: #333;
+          }
+        }
+      }
+    }
+  }
+}
