@@ -1,32 +1,36 @@
-# Nhóm 2 - Quản lý phòng khám.
+# 🏥✨ Dự án Quản Lý Phòng Khám - Nhóm 2 ✨🏥
 
-## Thành viên:
+---
 
-- Nguyễn Quốc Anh - 28211150100
-- Dương Tấn Tài - 27211201141
-- Nguyễn Văn Thành - 27211201139
-- Phan Văn Thành - 28211102974
-- Phan Hữu Minh Thiện - 27211245280
-- Ca Văn Trí - 27211245393
+## 👥 Thành viên nhóm
 
-## Tài liệu tham khảo:
+| Họ và tên              | MSSV          |
+|------------------------|---------------|
+| Nguyễn Quốc Anh        | 28211150100   |
+| Dương Tấn Tài          | 27211201141   |
+| Nguyễn Văn Thành       | 27211201139   |
+| Phan Văn Thành         | 28211102974   |
+| Phan Hữu Minh Thiện    | 27211245280   |
+| Ca Văn Trí             | 27211245393   |
 
-- NodeJs: https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
-- ReactJS: https://react.dev/reference/react
-- Express: https://expressjs.com/
-- https://sass-lang.com/guide/
+---
 
-## Cách cài đặt môi trường
+## 📚 Tài liệu tham khảo
+- 📦 **Node.js**: [Giới thiệu Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- ⚛️ **ReactJS**: [Tài liệu React](https://react.dev/reference/react)
+- 🚀 **ExpressJS**: [Tài liệu Express](https://expressjs.com/)
+- 🎨 **SASS**: [Hướng dẫn SASS](https://sass-lang.com/guide/)
 
-### 1. Cài đặt các phần mềm cần thiết:
+## ⚙️ Hướng dẫn cài đặt môi trường
 
-- NodeJS v14.17.0 -> Dowload NodeJS: http://nodejs.org/en/download
+### 1. Cài đặt phần mềm cần thiết
 
-- npm v6.14.13 -> Cách cài npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-
-- Github: -> Dowload Github: https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github
-
-- VsCode: -> Dowload VsCdoe: https://code.visualstudio.com/download
+| Phần mềm  | Phiên bản khuyến nghị | Tải về |
+|-----------|------------------------|--------|
+| 🟢 NodeJS    | v14.17.0               | [Tải tại đây](http://nodejs.org/en/download) |
+| 📦 npm       | v6.14.13               | [Hướng dẫn cài npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) |
+| 🐱 GitHub    | Mới nhất               | [Tải tại đây](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github) |
+| 💻 VSCode    | Mới nhất               | [Tải tại đây](https://code.visualstudio.com/download) |
 
 ### 2. Clone project từ Github.
 
