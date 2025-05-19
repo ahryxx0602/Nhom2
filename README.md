@@ -63,3 +63,5 @@ http://localhost:3000
 #### Backend chạy tại
 
 http://localhost:8081
+
+✅ Hãy đảm bảo rằng bạn đã cài đặt đầy đủ các phần mềm và dependencies trước khi khởi chạy ứng dụng.
