@@ -20,6 +20,46 @@
 | Ca Văn Trí             | 27211245393   |
 
 ---
+## 🧰 Công nghệ & Công cụ sử dụng
+
+### 🚀 Tech Stack
+
+<h3 align="center">🚀 Frontend</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SCSS" height="40" />
+  &nbsp;
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" height="40" />
+  &nbsp;
+</p>
+
+<h3 align="center">🚀 Backend</h3>
+<p align="center">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" height="40" />
+</p>
+
+<h3 align="center">🛠️ Tools & Databases</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" height="40" alt="MySQL Workbench"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" height="40" alt="Postman"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"/>
+</p>
+
+
 
 ## 📚 Tài liệu tham khảo
 - 📦 **Node.js**: [Giới thiệu Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
