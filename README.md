@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand gif" />
 </p>
 
-# 🏥✨ Dự án Quản Lý Phòng Khám - Nhóm 2
+<h1 align="center">🏥✨ Dự án Quản Lý Phòng Khám - Nhóm 2</h1>
 
 ---
 
@@ -20,63 +20,66 @@
 | Ca Văn Trí             | 27211245393   |
 
 ---
+
 ## 🧰 Công nghệ & Công cụ sử dụng
 
-### 🚀 Tech Stack
-
-<h3 align="center">🚀 Frontend</h3>
+### 💻 FRONTEND
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SCSS" height="40" />
-  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" height="40" />
-  &nbsp;
 </p>
 
-<h3 align="center">🚀 Backend</h3>
+### 🖥️ BACKEND
+
 <p align="center">
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" height="40" />
 </p>
 
-<h3 align="center">🛠️ Tools & Databases</h3>
+### 🛠️ TOOLS & DATABASE
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" height="40" alt="MySQL Workbench"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" height="40" alt="Postman"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" alt="MySQL Workbench" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="40" />
+  &nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="40" />
 </p>
 
-
+---
 
 ## 📚 Tài liệu tham khảo
-- 📦 **Node.js**: [Giới thiệu Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-- ⚛️ **ReactJS**: [Tài liệu React](https://react.dev/reference/react)
-- 🚀 **ExpressJS**: [Tài liệu Express](https://expressjs.com/)
-- 🎨 **SASS**: [Hướng dẫn SASS](https://sass-lang.com/guide/)
+
+- 📦 [Giới thiệu Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- ⚛️ [Tài liệu ReactJS](https://react.dev/reference/react)
+- 🚀 [Tài liệu ExpressJS](https://expressjs.com/)
+- 🎨 [Hướng dẫn SASS](https://sass-lang.com/guide)
+
+---
 
 ## ⚙️ Hướng dẫn cài đặt môi trường
 
 ### 1. Cài đặt phần mềm cần thiết
 
-| Phần mềm  | Phiên bản khuyến nghị | Tải về |
-|-----------|------------------------|--------|
-| 🟢 NodeJS    | v14.17.0               | [Tải tại đây](http://nodejs.org/en/download) |
-| 📦 npm       | v6.14.13               | [Hướng dẫn cài npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) |
-| 🐱 GitHub    | Mới nhất               | [Tải tại đây](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github) |
-| 💻 VSCode    | Mới nhất               | [Tải tại đây](https://code.visualstudio.com/download) |
+| Phần mềm   | Phiên bản khuyến nghị | Tải về |
+|------------|------------------------|--------|
+| 🟢 Node.js | v14.17.0               | [Tải tại đây](https://nodejs.org/en/download) |
+| 📦 npm     | v6.14.13               | [Xem hướng dẫn](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) |
+| 🐱 Git     | Mới nhất               | [Tải tại đây](https://git-scm.com/downloads) |
+| 💻 VSCode  | Mới nhất               | [Tải tại đây](https://code.visualstudio.com/download) |
+
+---
 
 ### 2. Clone project từ Github.
 
