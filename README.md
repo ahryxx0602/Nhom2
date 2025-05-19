@@ -1,5 +1,14 @@
 # 🏥✨ Dự án Quản Lý Phòng Khám - Nhóm 2 ✨🏥
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+GitHub+space!" alt="Typing SVG" />
+       <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand gif" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=I'm+Ahryxx" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👥 Thành viên nhóm
